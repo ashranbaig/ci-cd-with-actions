@@ -9,7 +9,7 @@ on:
     - releases/*
 
 env:
-  owner: Ashran
+  owner: ashran
   domain: github.io
 
 
